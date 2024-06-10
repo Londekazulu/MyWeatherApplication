@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="clear">Clear</string>
+    <string name="days">Days</string>
+    <string name="exit">Exit</string>
+    <string name="todo">TODO</string>
+    <string name="weather_condition">Weather Condition</string>
+</resources>
